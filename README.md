@@ -32,7 +32,7 @@ Clone repository as `build-tclsh`:
 
 ```bash
 $ git clone https://github.com/idleberg/atom-build-tclsh build-tclsh
-``
+```
 
 ## Usage
 
