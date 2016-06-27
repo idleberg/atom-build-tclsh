@@ -6,7 +6,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/atom-build-tclsh.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-tclsh)
 [![David](https://img.shields.io/david/dev/idleberg/atom-build-tclsh.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-tclsh#info=dependencies)
 
-[Atom Build](https://atombuild.github.io/) provider for `tclsh`, compiles Tcl.
+[Atom Build](https://atombuild.github.io/) provider for `tclsh`, compiles Tcl. Supports the [linter](https://atom.io/packages/linter) package with a set of error patterns.
 
 ## Installation
 
