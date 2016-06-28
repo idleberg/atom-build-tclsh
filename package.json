@@ -1,7 +1,7 @@
 {
   "name": "build-tclsh",
   "version": "0.2.0",
-  "description": "Atom Build provider for tclsh, compiles Tcl",
+  "description": "Atom Build provider for tclsh, runs Tcl",
   "repository": "https://github.com/idleberg/atom-build-tclsh",
   "license": "MIT",
   "keywords": [
@@ -17,7 +17,7 @@
   },
   "providedServices": {
     "builder": {
-      "description": "Compiles Tcl",
+      "description": "Runs Tcl",
       "versions": {
         "2.0.0": "provideBuilder"
       }
