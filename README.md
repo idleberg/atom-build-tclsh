@@ -35,10 +35,9 @@ Clone repository as `build-tclsh`:
 $ git clone https://github.com/idleberg/atom-build-tclsh build-tclsh
 ```
 
-Install Node dependencies:
+Inside the cloned directory, install Node dependencies:
 
 ```bash
-$ cd build-tclsh
 $ yarn || npm install
 ```
 
