@@ -17,7 +17,7 @@ Install `build-tclsh` from Atom's [Package Manager](http://flight-manual.atom.io
 
 `$ apm install build-tclsh`
 
-### GitHub
+### Using Git
 
 Change to your Atom packages directory:
 
