@@ -5,7 +5,7 @@
   "repository": "https://github.com/idleberg/atom-build-tclsh",
   "license": "MIT",
   "keywords": [
-    "build-provider",
+    "buildprovider",
     "compile",
     "tcl",
     "linter",
@@ -24,7 +24,7 @@
     }
   },
   "package-deps": [
-    "build-provider"
+    "build"
   ],
   "dependencies": {
     "atom-package-deps": "^4.3.1"
